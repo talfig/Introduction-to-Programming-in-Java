@@ -1,4 +1,4 @@
-# Algorithm Collection for Java Coursework
+# Algorithm Collection for Competitive Programming and Java Coursework
 
 This repository is a curated collection of algorithms and solutions to challenging problems from a variety of sources. It includes problems categorized as medium and hard from platforms like LeetCode and solutions from the **Introduction to Programming in Java** course.
 
