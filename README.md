@@ -10,7 +10,6 @@ The repository is organized by categories and problem identifiers. Each folder c
 - **Algorithms**: Solutions to a variety of algorithmic challenges.
 - **Java Programming**: Practical implementations for coursework problems.
 - **Problem Sources**: Includes problems from:
-  - Competitive programming contests.
   - University assignments.
   - LeetCode (Medium and Hard problems).
 
